@@ -68,8 +68,6 @@ public class PopUpCustom extends Dialog {
 
                     Toast.makeText(getContext(), Number.get(RecyclerViewItemPosition), Toast.LENGTH_LONG).show();
 
-                    test.Save(Number.get(RecyclerViewItemPosition));
-
                 }
 
                 return false;
